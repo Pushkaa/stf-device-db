@@ -1,4 +1,4 @@
-models := $(shell jq -r '"model-" + keys[]' data/devices-latest.json static/devices-static.json)
+models := $(shell jq -r '"model-" + keys[]' data/devices-latest.json data/devices-autodesk.json static/devices-static.json)
 
 .PHONY: clean
 
