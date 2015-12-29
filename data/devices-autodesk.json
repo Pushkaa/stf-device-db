@@ -1,7 +1,84 @@
 {
   "SM-T805": {  
     "name": {
-      "id": "Samsung Galaxy Tab S",
+      "id": "Galaxy Tab S",
+      "long": "",
+      "product": ""
+    }
+  }, 
+  "LG-H955": {  
+    "name": {
+      "id": "LG G Flex 2",
+      "long": "",
+      "product": ""
+    }
+  },
+  "GP-P5210": {  
+    "name": {
+      "id": "Galaxy Tab 3",
+      "long": "",
+      "product": ""
+    }
+  },
+  "SM-G900F": {  
+    "name": {
+      "id": "Galaxy S5",
+      "long": "",
+      "product": ""
+    }
+  },
+  "SM-N7505": {  
+    "name": {
+      "id": "Galaxy Note 3 Neo",
+      "long": "",
+      "product": ""
+    }
+  },
+  "ALCATEL ONE TOUCH 6033M": {  
+    "name": {
+      "id": "ONETOUCH IDOL Ultra",
+      "long": "",
+      "product": ""
+    }
+  },
+  "SM-N910F": {  
+    "name": {
+      "id": "Galaxy Note 4",
+      "long": "",
+      "product": ""
+    }
+  },
+  "GT-N7100": {  
+    "name": {
+      "id": "Galaxy Note 2",
+      "long": "",
+      "product": ""
+    }
+  },
+  "GT-I9300": {  
+    "name": {
+      "id": "Galaxy S3",
+      "long": "",
+      "product": ""
+    }
+  },
+  "DellVenue7000175070": {  
+    "name": {
+      "id": "Dell Venue 7",
+      "long": "",
+      "product": ""
+    }
+  },
+  "MX4": {  
+    "name": {
+      "id": "Meizu MX4",
+      "long": "",
+      "product": ""
+    }
+  },
+  "Galaxy Nexus": {  
+    "name": {
+      "id": "Galaxy Nexus",
       "long": "",
       "product": ""
     }
