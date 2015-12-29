@@ -6,7 +6,7 @@ module.exports.find = function(properties) {
   var id = mapping(properties)
     , match
 
-  if (id && ((match = data[id]) || (match = data2[id]))) {
+  if (id && ((match = data2[id]) || (match = data[id]))) {
     match.image = match.image || id + '.jpg'
     return match
   }
