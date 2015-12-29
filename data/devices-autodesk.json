@@ -82,5 +82,19 @@
       "long": "",
       "product": ""
     }
+  },
+  "SM-G925F": {  
+    "name": {
+      "id": "Galaxy S6 Edge",
+      "long": "",
+      "product": ""
+    }
+  },
+  "GT-I9500": {  
+    "name": {
+      "id": "Galaxy S4",
+      "long": "",
+      "product": ""
+    }
   }
 }
