@@ -103,5 +103,12 @@
       "long": "",
       "product": ""
     }
+  },
+  "SM-P900": {  
+    "name": {
+      "id": "Galaxy Tab",
+      "long": "",
+      "product": ""
+    }
   }
 }
