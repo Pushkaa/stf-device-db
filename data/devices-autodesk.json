@@ -13,7 +13,7 @@
       "product": ""
     }
   },
-  "GP-P5210": {  
+  "GT-P5210": {  
     "name": {
       "id": "Galaxy Tab 3",
       "long": "",
@@ -34,7 +34,7 @@
       "product": ""
     }
   },
-  "ALCATEL ONE TOUCH 6033M": {  
+  "DiabloHD": {  
     "name": {
       "id": "ONETOUCH IDOL Ultra",
       "long": "",
@@ -76,7 +76,7 @@
       "product": ""
     }
   },
-  "Galaxy Nexus": {  
+  "Galaxy_Nexus": {  
     "name": {
       "id": "Galaxy Nexus",
       "long": "",
